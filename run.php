@@ -16,10 +16,10 @@ echo "\n";
 }
 system('clear');
 echo "Creator\t\t:\tAlfian Oktafireza\nFacebook\t:\tfb.com/alfianokt104\nTelegram\t:\tt.me/alfian_oktafireza\n\n";
-echo "<[ CAPING SPAM OTP ]>\n";
+echo "<[ ACAI SPAM OTP ]>\n";
 echo "____________________\n\n";
 echo "Pesan : $pesan \n\n";
-echo "Nomer dimulai dari 62..\nMasukkan Nomer\t: ";
+echo "Nomer dimulai dari 60 ..\nMasukkan Nomer\t: ";
 $no = trim(fgets(STDIN));
 echo "Jumlah  Bom\t: ";
 $jumlah = trim(fgets(STDIN));
